@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_home">Home</string>
+    <string name="action_profile">Profile</string>
+
+    <string name="profile_name">Wanchalerm S.</string>
+    <string name="profile_class">Student</string>
+
+    <string name="contact_view">35 View</string>
+    <string name="contact_like">11 Like</string>
+    <string name="contact_post">7 Post</string>
+
+    <string name="home_post">this is my home profile.</string>
+</resources>

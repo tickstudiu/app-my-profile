@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F95F62</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="subName">#8c4242</color>
+    <color name="bgColorLike">#fcb5b6</color>
+    <color name="bgColorView">#fb8486</color>
+    <color name="bgColorPost">#f95356</color>
+    <color name="bgColorMyPost">#ededed</color>
+    <color name="colorHomeTitle">#1f2d3d</color>
+</resources>
